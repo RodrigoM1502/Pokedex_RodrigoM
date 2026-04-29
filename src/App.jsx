@@ -124,7 +124,7 @@ function About() {
       <>
         <h1>About</h1>
         <p>
-          This Pokédex was built using React, Vite and PokéAPI.
+          This is a Pokédex project made for a WEB2 assignment using React, Vite and PokéAPI.
         </p>
       </>
   )
